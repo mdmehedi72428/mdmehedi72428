@@ -1,6 +1,6 @@
 <a href="#"><img align="center" width="600px" height="auto" src="https://media.giphy.com/media/X6aCcZxwLh722EUiT6/giphy.gif"></a>
 <h1 align="center">Hi 👋, I'm Rahat Hossen</h1>
-<h3 align="center">I am Data Scientist Specialist and Professional Android and Web Developer.</h3>
+<h3 align="center">I am Professional Android and Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmehedi72428&label=Profile%20views&color=0e75b6&style=flat" alt="mdmehedi72428" /></p>
 
